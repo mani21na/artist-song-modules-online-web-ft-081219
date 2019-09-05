@@ -9,6 +9,6 @@ module Memorable
     end
   end
   
-  module InstanceMethodes
+  module InstanceMethods
 end
   
