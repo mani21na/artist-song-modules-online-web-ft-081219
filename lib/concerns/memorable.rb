@@ -11,7 +11,8 @@ module Memorable
   
   module InstanceMethods
     def initialze
-  end
+      
+    end
   end
 end
   
